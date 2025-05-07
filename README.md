@@ -15,7 +15,7 @@ A mobile marketplace application built with React Native and Expo.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Online-Selling-App.git
+   git clone https://github.com/Prasanka-Madhushan/Online-Selling-App.git
    cd Online-Selling-App
    ```
 
